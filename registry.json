@@ -1,0 +1,15 @@
+{
+  "name": "A.A Free TV - public playlists",
+  "updated": "2026-11-14",
+  "providers": [
+    { "name": "iptv-org Pakistan", "url": "https://iptv-org.github.io/iptv/countries/pk.m3u", "country": "PK" },
+    { "name": "iptv-org India", "url": "https://iptv-org.github.io/iptv/countries/in.m3u", "country": "IN" },
+    { "name": "iptv-org UAE", "url": "https://iptv-org.github.io/iptv/countries/ae.m3u", "country": "AE" },
+    { "name": "iptv-org Saudi Arabia", "url": "https://iptv-org.github.io/iptv/countries/sa.m3u", "country": "SA" },
+    { "name": "iptv-org UK", "url": "https://iptv-org.github.io/iptv/countries/uk.m3u", "country": "GB" },
+    { "name": "iptv-org USA", "url": "https://iptv-org.github.io/iptv/countries/us.m3u", "country": "US" },
+    { "name": "iptv-org News", "url": "https://iptv-org.github.io/iptv/categories/news.m3u" },
+    { "name": "iptv-org Sports", "url": "https://iptv-org.github.io/iptv/categories/sports.m3u" },
+    { "name": "iptv-org Entertainment", "url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u" }
+  ]
+}
